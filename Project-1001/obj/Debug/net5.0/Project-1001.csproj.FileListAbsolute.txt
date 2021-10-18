@@ -1,0 +1,16 @@
+E:\C#\Project1001\Project-1001\bin\Debug\net5.0\Project-1001.exe
+E:\C#\Project1001\Project-1001\bin\Debug\net5.0\Project-1001.deps.json
+E:\C#\Project1001\Project-1001\bin\Debug\net5.0\Project-1001.runtimeconfig.json
+E:\C#\Project1001\Project-1001\bin\Debug\net5.0\Project-1001.runtimeconfig.dev.json
+E:\C#\Project1001\Project-1001\bin\Debug\net5.0\Project-1001.dll
+E:\C#\Project1001\Project-1001\bin\Debug\net5.0\ref\Project-1001.dll
+E:\C#\Project1001\Project-1001\bin\Debug\net5.0\Project-1001.pdb
+E:\C#\Project1001\Project-1001\obj\Debug\net5.0\Project-1001.csproj.AssemblyReference.cache
+E:\C#\Project1001\Project-1001\obj\Debug\net5.0\Project-1001.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Project1001\Project-1001\obj\Debug\net5.0\Project-1001.AssemblyInfoInputs.cache
+E:\C#\Project1001\Project-1001\obj\Debug\net5.0\Project-1001.AssemblyInfo.cs
+E:\C#\Project1001\Project-1001\obj\Debug\net5.0\Project-1001.csproj.CoreCompileInputs.cache
+E:\C#\Project1001\Project-1001\obj\Debug\net5.0\Project-1001.dll
+E:\C#\Project1001\Project-1001\obj\Debug\net5.0\ref\Project-1001.dll
+E:\C#\Project1001\Project-1001\obj\Debug\net5.0\Project-1001.pdb
+E:\C#\Project1001\Project-1001\obj\Debug\net5.0\Project-1001.genruntimeconfig.cache
