@@ -6,7 +6,7 @@ namespace Project_1001
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter any two number");
+            Console.WriteLine("Enter any two number lol");
             double a = Convert.ToDouble(Console.ReadLine()), b = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("1.Addition\n"+
                             "2.Subtraction\n"+
